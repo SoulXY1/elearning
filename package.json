@@ -2,5 +2,23 @@
   "dependencies": {
     "mysql": "^2.18.1",
     "mysql2": "^2.3.3"
-  }
+  },
+  "name": "polilearning",
+  "version": "1.0.0",
+  "main": "public/index.html",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoulXY1/elearning.git"
+  },
+  "author": "EduardoBS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoulXY1/elearning/issues"
+  },
+  "homepage": "https://github.com/SoulXY1/elearning#readme",
+  "description": ""
 }
